@@ -26,18 +26,9 @@ follow the maintenance note at the bottom of this file.
 
 ## Seasonal shortlist
 
-- [Peatline Trail Jacket](storefront/index.html?id=OLD-01) | AUD 214.00 | Fjordline Outfitters
-- [Sedgewick Daypack](storefront/index.html?id=OLD-02) | AUD 158.00 | Alpine Threadworks
-- [Broomhead Boots](storefront/index.html?id=OLD-03) | AUD 226.00 | Granite & Larch
-- [Heatherbell Trousers](storefront/index.html?id=OLD-04) | AUD 132.00 | Tarn Supply Co.
-- [Wether Fell Gloves](storefront/index.html?id=OLD-05) | AUD 88.00 | Alpine Threadworks
-- [Old Kiln Headtorch](storefront/index.html?id=OLD-06) | AUD 64.00 | Fjordline Outfitters
-- [Thornycroft Shell](storefront/index.html?id=OLD-07) | AUD 248.00 | Alpine Threadworks
-- [Millrace Daypack](storefront/index.html?id=OLD-08) | AUD 142.00 | Tarn Supply Co.
-- [Gritstone Approach Boots](storefront/index.html?id=OLD-09) | AUD 198.00 | Granite & Larch
-- [Low Fell Trek Pants](storefront/index.html?id=OLD-10) | AUD 118.00 | Fjordline Outfitters
-- [Ember Liner Gloves](storefront/index.html?id=OLD-11) | AUD 42.00 | Tarn Supply Co.
-- [Sluice Gate Lamp](storefront/index.html?id=OLD-12) | AUD 96.00 | Alpine Threadworks
+- [Ridgeline 3L Shell](storefront/index.html?id=SJ-03) | AUD 180.11 | Alpine Threadworks
+- [Basin Runner 20L](storefront/index.html?id=DP-04) | AUD 129.48 | Granite & Larch
+- [Fellrunner GTX](storefront/index.html?id=HB-05) | AUD 173.47 | Fjordline Outfitters
 
 ## Field notes
 
