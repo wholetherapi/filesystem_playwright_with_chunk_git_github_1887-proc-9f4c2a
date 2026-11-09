@@ -1,0 +1,9 @@
+{
+  "base_currency": "EUR",
+  "display_rates": {
+    "EUR": 1.0,
+    "AUD": 1.66,
+    "GBP": 0.85,
+    "NZD": 1.8
+  }
+}
