@@ -25,6 +25,7 @@ follow the maintenance note at the bottom of this file.
 - QuickTrail Liquidators — suspended, listings must not be used.
 
 ## Seasonal shortlist
+
 - [Ridgeline 3L Shell](storefront/index.html?id=SJ-03) | AUD 180.11 | Alpine Threadworks
 - [Basin Runner 20L](storefront/index.html?id=DP-04) | AUD 129.48 | Granite & Larch
 - [Fellrunner GTX](storefront/index.html?id=HB-05) | AUD 173.47 | Fjordline Outfitters
